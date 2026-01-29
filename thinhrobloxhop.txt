@@ -1,3 +1,9 @@
+    ['Key'] = 'thinhrobloxhack-8360d05-f1c6c488c57da-616775d673ac',
+    ['Link Key'] = {
+        ['Key 1'] = 'ko có key free đâu hẹ hẹ',
+        ['Key 2'] = '',
+    },
+}
 -- 🔥 FAST ATTACK NEW (MELEE + SWORD + DEVIL FRUIT)
 -- GỘP THẲNG FILE – CHẠY NGẦM – KHÔNG CẦN CLICK
 
